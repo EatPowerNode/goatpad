@@ -1,0 +1,15 @@
+*
+!*/
+
+# track this file
+
+!.gitignore
+!LICENSE
+!*.go
+!*.mod
+!*.sum
+!*.glade
+
+# whitelist everything in ./config/
+
+!config/
